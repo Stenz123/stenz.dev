@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://stenz.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Michael Stenz'
 theme = "poison"
 
 
